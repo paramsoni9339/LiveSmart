@@ -152,9 +152,7 @@ To build the app, the following steps will be taken:
 
 ---
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+v3.2 is the final code final to run 
 
 ---
 
